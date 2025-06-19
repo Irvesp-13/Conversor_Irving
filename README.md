@@ -4,5 +4,5 @@ Utilizare python para el desarrollo del proyecto, usare Jira para la gestion de 
 Instrucciones:
 1.- en la terminal ejecutar "python conversorBasico.py".
 2.- Elegir alguna opción.
-3.- Ingresar la cantinas de unidades que desee.
+3.- Ingresar la cantidad de unidades que desee.
 4.- El programa hara la conversión automaticamente y terminara.
