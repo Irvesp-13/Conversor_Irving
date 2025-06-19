@@ -1,0 +1,2 @@
+El proposito de este proyceto es un conversor basico de kilometros a millas, litros a galones, gramos a onzas y centimetros a pulgadas.
+Utilizare python para el desarrollo del proyecto, usare Jira para la gestion de tareas del proyecto y por ultimo utilizare GitHub para el control de versiones.
